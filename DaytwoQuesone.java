@@ -12,6 +12,7 @@ import java.util.*;
      int multiple=start;
      int next=0,sum=0;
      System.out.printf("the multiples of %d are",start);
+     //main code
      while(limit!=0){
          next=next+multiple;
          sum=sum+next;

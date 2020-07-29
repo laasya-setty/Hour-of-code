@@ -1,4 +1,4 @@
-
+/*getting palindromes in a given range*/ 
 class Palindrome{
     
      static int check(int n){

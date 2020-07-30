@@ -26,6 +26,7 @@ Output 1
 
 import java.util.Scanner;
 import java.util.HashMap;
+
 public class DaythreeQuesone{
     
     Scanner sc=new Scanner(System.in);
@@ -60,25 +61,10 @@ public class DaythreeQuesone{
             hash.put(h,p);
             }
         }
+        }
         //to sort positions there is no direct method,we have to use Comparator which is a huge process
         //so for now while giving input use ascending order
-            
-       /* int [] housenum=new int[num];
-            
-        for(Integer i: hash.keySet()){
-           housenum
-
-            
-        }*/
-       
-
-     }
-     
-     
-
-
-
-    public static void main(String args[]){
+             public static void main(String args[]){
         
         DaythreeQuesone obj=new DaythreeQuesone();
        obj.enter();

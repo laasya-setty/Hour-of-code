@@ -21,9 +21,9 @@ public class DayfiveQuesone {
             reversed=reversed+each.charAt(j);
 
         }
-        finalstr=finalstr+reversed;
+        finalstr=finalstr+" "+reversed;
      } 
-     System.out.println("the final string is"+finalstr);
+     System.out.println("the final string is "+finalstr);
      
 
       

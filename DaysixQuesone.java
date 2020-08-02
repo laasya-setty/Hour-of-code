@@ -27,7 +27,7 @@ if odd: print middle num
 if even : take average of two middle values */
 
 import java.util.ArrayList;
-import java.util.Arrays;
+
 import java.util.Collections;
 import java.util.Scanner;
 public class DaysixQuesone{
